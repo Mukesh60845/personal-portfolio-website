@@ -25,5 +25,3 @@ It serves as my digital identity and is fully responsive across all devices.
 | Hosting | GitHub Pages |
 
 ---
-
-### 🧩 Folder Structure
